@@ -1,4 +1,20 @@
-"Hitting your stride!",
-"You are making a difference!",
-"You're more fun than bubble wrap!",
-"How was your sleep?"
+{
+  "anytime": [
+    "Du schaffst das.",
+    "Kurz durchatmen.",
+    "Weiter so."
+  ],
+  "morning": [
+    "Guten Morgen!",
+    "Zeit für Kaffee."
+  ],
+  "afternoon": [
+    "Bleib fokussiert."
+  ],
+  "evening": [
+    "Fast geschafft."
+  ],
+  "night": [
+    "Zeit zum Abschalten."
+  ]
+}
