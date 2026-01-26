@@ -2,6 +2,7 @@
   "anytime": [
     "Du schaffst das.",
     "Kurz durchatmen.",
+    "Bald ist es vorbei.",
     "Weiter so."
   ],
   "morning": [
@@ -15,6 +16,7 @@
     "Fast geschafft."
   ],
   "night": [
-    "Zeit zum Abschalten."
+    "Zeit zum Abschalten.",
+    "Gute nacht."
   ]
 }
